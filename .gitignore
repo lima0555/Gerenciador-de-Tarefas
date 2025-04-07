@@ -1,6 +1,9 @@
-.classpath
-.project
-.settings/
+# Ignorar arquivos compilados
 *.class
+
+# Ignorar arquivos temporários
+tempCodeRunnerFile.java
+
+# Ignorar pastas de configurações de IDE
 .vscode/
-bin/
+
