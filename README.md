@@ -1,1 +1,24 @@
 # Gerenciador de Tarefas 
+
+Este é um projeto simples desenvolvido com **Java e Swing**, que simula um sistema de registro de reclamações, inspirado no "Reclame Aqui". O usuário pode registrar problemas enfrentados com produtos ou serviços, informando dados importantes como o nome da empresa e CPF/CNPJ.
+
+##  Funcionalidades
+
+- Registrar reclamações
+- Campos para:
+  - Nome da empresa
+  - CPF ou CNPJ
+  - Descrição do problema
+- Interface gráfica amigável em Java Swing
+
+##  Tecnologias Utilizadas
+
+- Java 24
+- Java Swing
+- IDE: VS Code / Eclipse
+
+##  Como Executar
+
+1. Clone o repositório:
+2. Abra o projeto na sua IDE Java
+3. Compile e execute o arquivo `GerenciadorTarefas.java`
